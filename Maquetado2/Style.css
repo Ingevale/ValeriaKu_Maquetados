@@ -1,0 +1,68 @@
+html
+{
+    background-color: white;
+}
+
+body{
+    width: 750px;
+    height: 750px;
+    margin: auto;
+    align-items: center;
+}
+
+header{
+    width: 750px;
+    height: 250px;
+    background-color: #C70039;
+    border: 3px solid black;
+}
+#Banner{
+    width: 500px;
+    height: 244px;
+    background-color: white;
+    border: 3px solid #C70039;
+    float: left;
+}
+#Logo{
+    height: 244px;
+    width: 237px;
+    background-color: white;
+    border: 3px solid #C70039;
+    float: right;
+}
+
+nav{
+    width: 750px;
+    height: 50px;
+    background-color: #FF5733;
+    border: 3px solid black;
+}
+
+main{
+    width: 750px;
+    height: 400px;
+    background-color: #FFC300;
+    border: 3px solid black;
+}
+
+#Article{
+    height: 395px;
+    width: 450px;
+    background-color: white;
+    border: 3px solid #FFC300;
+    float: left;
+}
+#Aside{
+    height: 395px;
+    width: 286px;
+    background-color: white;
+    border: 3px solid #FFC300;
+    float: right;
+}
+
+footer{
+    width: 750px;
+    height: 50px;
+    background-color: #DAF7A6;
+    border: 3px solid black;
+}
